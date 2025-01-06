@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.DeoLQWHo.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Notes/25年/template.md","filePath":"Notes/25年/template.md","lastUpdated":null}'),o={name:"Notes/25年/template.md"};function s(r,n,p,c,l,m){return t(),a("div")}const i=e(o,[["render",s]]);export{_ as __pageData,i as default};
