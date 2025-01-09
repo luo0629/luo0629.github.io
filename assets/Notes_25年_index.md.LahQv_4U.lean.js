@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.CAv1dD81.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Notes/25年/index.md","filePath":"Notes/25年/index.md","lastUpdated":1736351572000}'),o={name:"Notes/25年/index.md"};function s(n,r,d,c,i,p){return t(),a("div")}const f=e(o,[["render",s]]);export{m as __pageData,f as default};
